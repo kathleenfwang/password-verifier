@@ -1,4 +1,4 @@
-The Program Spec
+#The Program Spec
 
 Write a program using loops and functions that asks for a password, and then asks the user to confirm the password chosen.  Your solution will verify that both user passwords entered match.  Your program must also validate that the new password follows these rules:
 
@@ -7,7 +7,7 @@ Write a program using loops and functions that asks for a password, and then ask
 -The password must have at least one digit
 Re-prompt the user if either 1) the two passwords entered do not match or if  2) the password does not satisfy all the rules stated 
 
-Here are some other requirements:
+##Some other requirements:
 
 -Create constants versus using literals in your source code (i.e. for minimum password length)
 -Include a function that checks whether a password is valid
